@@ -1,4 +1,4 @@
-# PS_Analytica_2026
+# PS_Analytica_2026 - Gabriel Peroba
 Repositório de base de dados e scripts python para o Hackathon do grupo Analytica - UFRJ.
 
 # 🌊 Previsão de Alagamentos via IA e Topografia
