@@ -1,7 +1,7 @@
 # PS_Analytica_2026
 Repositório de base de dados e scripts python para o Hackathon do grupo Analytica - UFRJ.
 
-# 🌊 Rio-Flooding AI: Previsão de Alagamentos via IA e Topografia
+# 🌊 Previsão de Alagamentos via IA e Topografia
 
 ## 📌 O Problema
 No Rio de Janeiro, a topografia é o fator determinante para o caos urbano. Enquanto áreas altas escoam, as baixadas sofrem com bolsões d'água e alagamentos críticos que param a mobilidade da cidade.
