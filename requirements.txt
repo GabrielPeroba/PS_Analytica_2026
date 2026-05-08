@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+streamlit
+streamlit-folium
+folium
+requests
+matplotlib
+seaborn
