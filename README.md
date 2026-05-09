@@ -23,7 +23,7 @@ Desenvolvemos um modelo de aprendizado de máquinas (**Random Forest Classifier*
 
 ---
 
-##  Bases de Dados (Data Lake na Nuvem)
+##  Bases de Dados 
 Devido ao grande volume de registros históricos (que ultrapassam o limite de 100MB do GitHub), os datasets originais e a matriz de treinamento final foram hospedados na nuvem. 
 
 Faça o download dos arquivos `.csv` através dos links públicos abaixo e coloque-os na mesma pasta dos scripts antes de rodar o projeto:
