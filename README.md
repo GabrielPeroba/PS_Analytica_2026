@@ -14,7 +14,7 @@ Desenvolvemos um modelo de aprendizado de máquinas (**Random Forest Classifier*
 - **Consciência Geográfica:** O modelo aprendeu que baixas altitudes + chuva forte = Alerta Crítico.
 - **Simulador Interativo:** Interface em Streamlit para simulação tática da Defesa Civil e Centro de Operações (COR).
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - **Linguagem:** Python
 - **IA e Machine Learning:** Scikit-Learn (Random Forest Classifier)
 - **Interface e Dashboard:** Streamlit
