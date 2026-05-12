@@ -54,6 +54,6 @@ python processamento_dados.py
 
 python treinar_ia.py
 
-**5. Inicie o Simulador Interativo do COR:**
+**5. Inicie o Simulador Interativo do COR via CMD ou PowerShell:**
 
 streamlit run app_simulador.py
