@@ -42,15 +42,18 @@ Siga o pipeline de execução abaixo na sua máquina local:
 
 pip install -r requirements.txt
 
-**2. Gere a base de dados purificada (ETL):**
+**2. Baixe as bases de dados e arquivos e deixe tudo na mesma pasta:**
+
+
+**3. Gere a base de dados purificada (ETL):**
 
 python processamento_dados.py
 
 
-**3. Treine a IA e gere o mapa ao vivo:**
+**4. Treine a o modelo de aprendizado e gere o mapa ao vivo:**
 
 python treinar_ia.py
 
-**4. Inicie o Simulador Interativo do COR:**
+**5. Inicie o Simulador Interativo do COR:**
 
 streamlit run app_simulador.py
